@@ -1,0 +1,1 @@
+Expense Tracker is a simple and efficient tool designed to help users monitor and manage their daily, weekly, or monthly expenses. It allows you to record your spending, categorize transactions, set budgets, and view insightful reports, helping you stay in control of your finances and make smarter money decisions.
